@@ -49,3 +49,25 @@ body {
   padding: 40px;
   margin-top: 20px;
 }
+.icon {
+  background-size: 20px;
+  content: '';
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+}
+.icon-github {
+    background: url(images/github-square.svg) no-repeat;
+}
+.icon-flickr {
+    background: url(images/flickr.svg) no-repeat;
+}
+.icon-pinterest {
+    background: url(images/pinterest-square.svg) no-repeat;
+}
+.icon-linkedin {
+    background: url(images/linkedin.svg) no-repeat;
+}
+.icon-codepen {
+    background: url(images/codepen.svg) no-repeat;
+}
